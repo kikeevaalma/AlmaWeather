@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Альма ПОГОДА</string>
+
+    <string name="check">Проверить</string>
+
+    <string name="loading">Загрузка&#8230; </string>
+
+    <string name="dt">Последнее обновление: %1$s</string>
+    <string name="temp">%1$s\u00B0C</string>
+</resources>
